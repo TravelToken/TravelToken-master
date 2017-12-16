@@ -34,10 +34,10 @@ labeled 'stale'.
 TRIPCoin specification:
 * Ticker: TRIP
 * FullName: TRIPcoin
-* Total coins: 100 000 000
+* Total coins: 200 000 000
 * Algo: 100% POS - scrypt
-* Annual Interest: 5%
-* Block time: 60 seconds
+* Annual Interest: n/a
+* Block time: 60s
 * Min transaction fee: 0.0001 TRIP
 * Confirmations: 10, maturity: 240
 * Min stake age: 4 hours, no max age
